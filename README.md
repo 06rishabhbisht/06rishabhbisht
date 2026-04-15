@@ -76,9 +76,9 @@
 
 ### 💻 Software Engineer — Coforge (2021–2024)
 
-* 🚀 Improved data accuracy by **40%**
-* ⚡ Automated reporting from **25% → 80%**
-* 📊 Delivered 20+ dashboards & reports
+* 🚀 Improved data accuracy by **40%** by implementing validation rules and standardizing SQL queries.
+* ⚡ Automated reporting from **25% → 80%** by developing SQL-driven scheduled reports and dashboards.
+* 📊 Delivered 20+ dashboards & reports 
 * 🔧 Optimized ETL workflows & batch processing
 
 ### 🏪 Supervisor — Shoppers Drug Mart (2025–Present)
@@ -89,26 +89,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
-* 🔍 Advanced Machine Learning & AI
+* 🔍 Data Analytics & Engineering 
 * ☁️ Cloud Data Engineering
 * 📊 Real-world Data Science Projects
 * 🚀 Building production-ready ML systems
