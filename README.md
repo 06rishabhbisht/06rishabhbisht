@@ -14,7 +14,8 @@
 💡 Data Analyst with 3+ years of experience in **Business Intelligence, Data Engineering, and Analytics**
 📊 Passionate about transforming raw data into **actionable insights**
 ⚙️ Skilled in building **automated pipelines, dashboards, and scalable data systems**
-🎓 Currently enhancing my skills on data tools **ocus on mastering SQL for database querying, Python for advanced analysis and automation, and Excel for quick, ad-hoc data manipulation.**
+🎓 Currently enhancing my skills on data tools focus on mastering SQL for database querying, Python for advanced analysis and automation, and Excel for quick, ad-hoc data manipulation.
+⚡ Outside my work, I'm a avid follower of financial news and trends. You might also find me on the football pitch, where I apply the same strategic thinking and teamwork principles. 
 
 ---
 
