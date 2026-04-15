@@ -31,36 +31,27 @@
 ## ⚡ Tech Stack
 
 ### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 📊 Data & BI Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tableau" />
-  <img src="https://skillicons.dev/icons?i=azure" />
-</p>
-
-* Power BI
-* MS Excel
-* SSRS
+### 📊 Data & BI
+<img src="https://skillicons.dev/icons?i=tableau,excel" />
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 ### ⚙️ Data Engineering
+<img src="https://skillicons.dev/icons?i=azure" />
+<br/>
+<img src="https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DataStage-052FAD?style=for-the-badge"/>
 
-* Informatica PowerExchange
-* SSIS
-* IBM InfoSphere DataStage
-* Snowflake
+### 🗄️ Data Warehousing
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<br/>
+<img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
-### 🛠️ Tools & Platforms
-
-* GitHub
-* Azure DevOps
-* SQL Server
-* Linux / Windows
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=github,git,linux,windows" />
 
 ---
 
