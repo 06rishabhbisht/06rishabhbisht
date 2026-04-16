@@ -61,7 +61,6 @@ Certified Associate Data Analyst, with 3+ years of experience in data engineerin
 
 * 🧠 XGBoost achieved highest performance (~0.71 F1-score)
 * 🌍 Identified fraud hotspots using **DBSCAN clustering**
-* ⏱️ Detected fraud peaks between **12 AM – 2 AM**
 * 📈 Improved detection using spatial + temporal features
 
 👉 [View Project Repository](#)
