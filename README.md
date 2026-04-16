@@ -17,7 +17,7 @@ Certified Associate Data Analyst, with 3+ years of experience in data engineerin
 
 🌱 Currently nurturing my skills in machine learning and training models.
 
-💬 Exploring why unexpected statistical patterns emerge during model training. 😅
+💬 Exploring unexpected statistical patterns emerge during model training. 😅
 
 📫 How to reach me 06.rishabhbisht@gmail.com
 
