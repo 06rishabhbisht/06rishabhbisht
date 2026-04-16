@@ -15,14 +15,13 @@ Certified Associate Data Analyst, with 3+ years of experience in data engineerin
 
 ---
 
-## 🧠 What I Do
+🌱 Currently nurturing my skills in machine learning and training models.
 
-* 📊 Data Analysis & Visualization
-* 🏗️ Data Engineering & ETL Pipelines
-* 📈 Business Intelligence & Reporting
-* 🤖 Machine Learning & Predictive Modeling
-* 🧩 Problem Solving with Data
+💬 Exploring why unexpected statistical patterns emerge during model training. 😅
 
+📫 How to reach me 06.rishabhbisht@gmail.com
+
+⚡ Fun fact I love building things that make life easier—especially if it means I can code more and click less.
 ---
 
 ## ⚡ Tech Stack
