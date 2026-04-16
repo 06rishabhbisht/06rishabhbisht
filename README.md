@@ -11,11 +11,7 @@
 
 ## 🚀 About Me
 
-💡 Data Analyst with 3+ years of experience in **Business Intelligence, Data Engineering, and Analytics**
-📊 Passionate about transforming raw data into **actionable insights**
-⚙️ Skilled in building **automated pipelines, dashboards, and scalable data systems**
-🎓 Currently enhancing my skills on data tools focus on mastering SQL for database querying, Python for advanced analysis and automation, and Excel for quick, ad-hoc data manipulation.
-⚡ Outside my work, I'm a avid follower of financial news and trends. You might also find me on the football pitch, where I apply the strategic thinking and teamwork principles. 
+Certified Associate Data Analyst, with 3+ years of experience in data engineering and business intelligence. Passionate about uncovering patterns in data, building scalable data solutions, and using analytics to solve real-world problems.
 
 ---
 
@@ -73,31 +69,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-### 💻 Software Engineer — Coforge (2021–2024)
-
-* 🚀 Improved data accuracy by **40%** by implementing validation rules and standardizing SQL queries.
-* ⚡ Automated reporting from **25% → 80%** by developing SQL-driven scheduled reports and dashboards.
-* 📊 Delivered 20+ dashboards & reports 
-* 🔧 Optimized ETL workflows & batch processing
-
-### 🏪 Supervisor — Shoppers Drug Mart (2025–Present)
-
-* 👥 Managed operations & team workflows
-* 📦 Improved inventory & operational efficiency
-* 🤝 Enhanced customer service quality
-
----
-
-## 🎯 Current Focus
-
-* 🔍 Data Analytics & Engineering 
-* ☁️ Cloud Data Engineering
-* 📊 Real-world Data Science Projects
-* 🚀 Building production-ready ML systems
-
----
 
 ## 🤝 Let's Connect
 
